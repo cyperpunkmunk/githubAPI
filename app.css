@@ -1,0 +1,8 @@
+footer {
+    position: fixed;
+      bottom: 0;
+      left: 0; /* You can adjust left if needed */
+      width: 100%; /* Make it full width */
+      background-color: #333; /* Background color */
+
+}
